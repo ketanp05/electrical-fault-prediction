@@ -34,4 +34,4 @@ jupyter notebook
 
 ## Contributing
 
-Contributions to the project are welcome! See `CONTRIBUTING.md` for more details on how to contribute.
+Contributions to the project are welcome!
